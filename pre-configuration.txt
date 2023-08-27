@@ -14,3 +14,8 @@ OR
 npm run build = to build our website ready for production. 
 OR
 npx parcel build index.html =  to build our website ready for production. 
+
+*ush to github
+git remote add origin https://github.com/Levisvusi/resortify.git
+git branch -M main
+git push -u origin main
