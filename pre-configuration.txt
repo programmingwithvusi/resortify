@@ -1,11 +1,11 @@
 check node version 
 node -v  = returns installed node
 
-npm init -y  = to intialize the packages process.
+npm init -y  = to initialize the packages process.
 
 npm i -D parcel-bundler =  to optimize and minify our code in to smaller files.
 
-npm i -g parcel-bundler = shorthand configuration for optimizztion
+npm i -g parcel-bundler = shorthand configuration for optimization
 
 parcel index.html = to run the site using parcel and to live server vs code edition.
 
@@ -16,7 +16,7 @@ OR
 npx parcel build index.html =  to build our website ready for production. 
 
 *Push to github
-git remote add origin https://github.com/Levisvusi/resortify.git
+git remote add origin <GITHUB_URL>
 git branch -M main
 git push -u origin main
 
