@@ -744,6 +744,7 @@ a {
     .nav__item {
         border: 0;
     }
+
 }
 
 /* Hero */
@@ -824,11 +825,6 @@ a {
 .feature__heading {
     margin: 1rem 0;
 }
-
-
-
-
-
 
 @media screen and (min-width: 768px) {
     .container:nth-of-type(even) .feature__content {
@@ -948,6 +944,6 @@ a {
 }
 
 /*Sign-up call-out*/
-.call-out-signup {
+.callout-signup {
     transform: translateY(5rem);
 }
